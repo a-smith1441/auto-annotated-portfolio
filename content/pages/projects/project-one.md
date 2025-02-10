@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: AI Crop Monitoring System
+title: AI Learning Management System
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
