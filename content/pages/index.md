@@ -85,7 +85,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: >-
+      Revolutionizing agriculture with AI-driven crop monitoring, ensuring
+      optimal growth, efficiency, and sustainability.
     title: AI Crop Monitoring System
   - type: FeaturedPostsSection
     elementId: ''
