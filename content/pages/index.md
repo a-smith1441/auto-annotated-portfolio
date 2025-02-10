@@ -194,4 +194,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+metaTitle: AppCraft - Portfolio Site of Mobile App Development
 ---
