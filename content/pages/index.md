@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: AppCraft - Portfolio Site of Mobile App Development
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -84,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
