@@ -195,4 +195,8 @@ sections:
       text:
         textAlign: left
 metaTitle: AppCraft - Portfolio Site of Mobile App Development
+metaDescription: >-
+  AppCraft is a mobile app development portfolio featuring innovative, custom
+  solutions designed to enhance user experiences and drive digital
+  transformation.
 ---
