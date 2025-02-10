@@ -86,6 +86,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+    title: AI Crop Monitoring System
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
