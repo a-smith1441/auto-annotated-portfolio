@@ -54,7 +54,7 @@ sections:
     actions:
       - type: Link
         label: See all projects
-        url: /projects
+        url: 'https://www.hiddenbrains.com/case-studies.html'
     showDate: false
     showDescription: true
     showFeaturedImage: true
