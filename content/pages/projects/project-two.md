@@ -3,7 +3,7 @@ type: ProjectLayout
 title: AI Business Analytics System
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: MRS Holdings
 description: >-
   Unlock actionable insights with an AI-powered Business Analytics System.
   Automate data analysis, forecast trends, and drive strategic growth with
