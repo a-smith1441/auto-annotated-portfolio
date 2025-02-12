@@ -2,7 +2,7 @@
 type: PostLayout
 title: 'React Native vs. Ionic: Best Mobile App Framework in 2025'
 colors: colors-b
-date: '2024-01-01'
+date: '2025-01-01'
 author: content/data/team/doris-soto.json
 excerpt: >-
   Want to create a secure, scalable and feature-packed cross-platform mobile
