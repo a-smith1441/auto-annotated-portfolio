@@ -6,9 +6,7 @@ date: '2024-01-01'
 author: content/data/team/doris-soto.json
 excerpt: >-
   Want to create a secure, scalable and feature-packed cross-platform mobile
-  application but confused about choosing one from React Native vs. Ionic? Due
-  to the availability of a vast landscape of technologies surrounding the mobile
-  app development process, making the right choice can take time and effort. ...
+  application but confused about choosing one from React Native vs. Ionic?
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
