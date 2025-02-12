@@ -2,7 +2,7 @@
 type: PostLayout
 title: How Cloud Computing is Digitally Transforming the Healthcare Industry?
 colors: colors-a
-date: '2024-06-03'
+date: '2025-01-03'
 author: content/data/team/doris-soto.json
 excerpt: >-
   Discover top trends shaping the future of cloud computing, including AI,
