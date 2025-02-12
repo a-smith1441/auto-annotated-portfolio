@@ -2,7 +2,7 @@
 type: PostLayout
 title: 'Generative AI in Healthcare: Advancing Treatment and Patient Care'
 colors: colors-a
-date: '2024-02-05'
+date: '2025-01-05'
 author: content/data/team/doris-soto.json
 excerpt: >-
   Generative AI will be a game changer in healthcare. Artificial intelligence’s
