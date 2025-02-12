@@ -5,7 +5,7 @@ colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  Genrative AI will be a game changer in healthcare. Artificial intelligence’s
+  Generative AI will be a game changer in healthcare. Artificial intelligence’s
   revolutionary effects have radically changed how doctors and healthcare
 featuredImage:
   type: ImageBlock
