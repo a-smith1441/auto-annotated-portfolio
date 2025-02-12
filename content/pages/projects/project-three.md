@@ -3,7 +3,7 @@ type: ProjectLayout
 title: AI Crop Monitoring System
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: CreditPulse
 description: >-
   Optimize agricultural productivity with an AI-driven Crop Monitoring System.
   Gain real-time insights, detect diseases early, and improve yield with smart
