@@ -6,7 +6,7 @@ date: '2024-06-03'
 author: content/data/team/doris-soto.json
 excerpt: >-
   Discover top trends shaping the future of cloud computing, including AI,
-  hybrid clouds, IoT, edge computing, and evolving cost models....
+  hybrid clouds, IoT, edge computing, and evolving cost models...
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
