@@ -3,7 +3,7 @@ type: ProjectLayout
 title: AI Learning Management System
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: OMV
 description: >-
   Transform the learning experience with an AI-driven Learning Management
   System. Automate course recommendations, track student progress, and
