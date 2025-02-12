@@ -4,7 +4,9 @@ title: How Cloud Computing is Digitally Transforming the Healthcare Industry?
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Discover top trends shaping the future of cloud computing, including AI,
+  hybrid clouds, IoT, edge computing, and evolving cost models....
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
