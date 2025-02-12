@@ -4,7 +4,9 @@ title: 'Generative AI in Healthcare: Advancing Treatment and Patient Care'
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Genrative AI will be a game changer in healthcare. Artificial intelligence’s
+  revolutionary effects have radically changed how doctors and healthcare
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
