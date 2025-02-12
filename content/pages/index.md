@@ -54,7 +54,7 @@ sections:
     actions:
       - type: Link
         label: See all projects
-        url: /projects
+        url: 'https://www.hiddenbrains.com/case-studies.html'
     showDate: false
     showDescription: true
     showFeaturedImage: true
@@ -85,7 +85,10 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: >-
+      Revolutionizing agriculture with AI-driven crop monitoring, ensuring
+      optimal growth, efficiency, and sustainability.
+    title: AI Crop Monitoring System
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -131,7 +134,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Got an interesting project? Tell us more...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -195,4 +198,8 @@ sections:
       text:
         textAlign: left
 metaTitle: AppCraft - Portfolio Site of Mobile App Development
+metaDescription: >-
+  AppCraft is a mobile app development portfolio featuring innovative, custom
+  solutions designed to enhance user experiences and drive digital
+  transformation.
 ---
