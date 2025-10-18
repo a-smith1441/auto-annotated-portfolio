@@ -20,6 +20,11 @@
             },
             {
                 "type": "Link",
+                "label": "Task Manager",
+                "url": "/task-manager"
+            },
+            {
+                "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
             }
@@ -65,6 +70,12 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Task Manager",
+                "url": "/task-manager",
                 "altText": ""
             },
             {
