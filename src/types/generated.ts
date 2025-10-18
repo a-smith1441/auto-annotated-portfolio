@@ -20,6 +20,7 @@ export type SectionModels =
     | RecentPostsSection
     | RecentProjectsSection
     | TestimonialsSection
+    | TaskManagementSection
     | TextSection;
 
 export type ContentObject =
@@ -61,6 +62,7 @@ export type ContentObject =
     | Social
     | Testimonial
     | TestimonialsSection
+    | TaskManagementSection
     | TextareaFormControl
     | TextFormControl
     | TextSection
@@ -109,6 +111,7 @@ export type ContentObjectType =
     | 'Social'
     | 'Testimonial'
     | 'TestimonialsSection'
+    | 'TaskManagementSection'
     | 'TextareaFormControl'
     | 'TextFormControl'
     | 'TextSection'
@@ -632,6 +635,16 @@ export type TestimonialsSection = BaseContentObject & {
     testimonials?: Testimonial[];
     colors?: 'colors-a' | 'colors-b' | 'colors-c' | 'colors-d' | 'colors-e' | 'colors-f';
     variant: 'variant-a' | 'variant-b' | 'variant-c';
+    elementId?: string;
+    styles?: any;
+};
+
+export type TaskManagementSection = BaseContentObject & {
+    type: 'TaskManagementSection';
+    title?: string;
+    description?: string;
+    colors?: 'colors-a' | 'colors-b' | 'colors-c' | 'colors-d' | 'colors-e' | 'colors-f';
+    backgroundSize?: 'full' | 'inset';
     elementId?: string;
     styles?: any;
 };
